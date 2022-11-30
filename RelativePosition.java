@@ -1,4 +1,4 @@
-package com.evrhel.bsp;
+package com.dippin.bsp;
 
 import static com.evrhel.bsp.Vector2.*;
 
