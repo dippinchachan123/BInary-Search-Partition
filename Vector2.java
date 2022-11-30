@@ -1,4 +1,4 @@
-package com.evrhel.bsp;
+package com.dippin.bsp;
 
 /**
  * 2-component floating-point vector
