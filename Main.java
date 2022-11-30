@@ -1,6 +1,6 @@
-package com.evrhel.bsp;
+package com.dippin.bsp;
 
-import com.evrhel.bsp.render.ViewWindow;
+import com.dippin.bsp.render.ViewWindow;
 
 import java.io.FileNotFoundException;
 import java.util.Arrays;
