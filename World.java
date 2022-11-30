@@ -1,4 +1,4 @@
-package com.evrhel.bsp;
+package com.dippin.bsp;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
