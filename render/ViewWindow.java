@@ -1,9 +1,9 @@
-package com.evrhel.bsp.render;
+package com.dippin.bsp.render;
 
-import com.evrhel.bsp.BSPTree;
-import com.evrhel.bsp.Polygon;
-import com.evrhel.bsp.Vector2;
-import com.evrhel.bsp.World;
+import com.dippin.bsp.BSPTree;
+import com.dippin.bsp.Polygon;
+import com.dippin.bsp.Vector2;
+import com.dippin.bsp.World;
 
 import java.awt.*;
 import java.awt.event.MouseEvent;
