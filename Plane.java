@@ -1,4 +1,4 @@
-package com.evrhel.bsp;
+package com.dippin.bsp;
 
 /**
  * Defines a 2D plane.
